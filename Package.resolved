@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "package-name",
+        "repositoryURL": "https://github.com/erica/package-name",
+        "state": {
+          "branch": null,
+          "revision": "ef6b2e3b8455a52131c34b8cd45f0c441eebcf1a",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
